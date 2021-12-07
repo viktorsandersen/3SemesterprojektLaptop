@@ -1,0 +1,3 @@
+C:/Users/vikto/CLionProjects/3SemesterprojektLaptop/cmake-build-debug/CMakeFiles/3SemesterprojektLaptop.dir
+C:/Users/vikto/CLionProjects/3SemesterprojektLaptop/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vikto/CLionProjects/3SemesterprojektLaptop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
